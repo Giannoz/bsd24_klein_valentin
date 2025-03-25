@@ -89,6 +89,7 @@ The project is paused and no further development is expected for now.
 
 - [Exercise1](exercise1.md)
 - [Exercise2](exercise2.md)
+- [Exercise2_part2](exercise2_part2.md)
 
 
 
