@@ -72,6 +72,11 @@ valentin.klein@gmail.com
 - Author: Valentin Klein
 - Last update: 13.03.2025
 
+[Valentin Klein](https://github.com/giannoz)
+
+[FH Campus02](https://www.campus02.at)
+
+
 
 
 
@@ -83,6 +88,7 @@ The project is paused and no further development is expected for now.
 ## Practice
 
 - [Exercise1](exercise1.md)
+- [Exercise2](exercise2.md)
 
 
 
