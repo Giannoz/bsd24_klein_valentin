@@ -25,7 +25,7 @@ Shows the differences between the working directory and the staging area or betw
 Fetches changes from a remote repository and integrates them into the current branch. Combines 'git fetch' and 'git merge' into one command.
 
 ## git push
-Uploads local repository content to a remote repository. Its used to share your changes with others or to backup the work to a remote server.
+Uploads local repository content to a remote repository. It's used to share your changes with others or to backup the work to a remote server.
 
 ## git branch
 Lists, creates or deletes branches. Branches allow to develop features, fix bugs or experiment with new ideas in a isolated place from the main codebase.
